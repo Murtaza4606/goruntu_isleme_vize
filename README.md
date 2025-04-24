@@ -12,4 +12,4 @@ Projenin amacı iki parmak arasının mesafine göre bilgisayar parlaklığını
 
 ## Projenin Çalışma Mantığı
 
-Kod çalıştıktan sonra kamera açılır ve elimiz ekrana gösterildikten sonra elin eklemleri ve elin kendisi algılanır.Ardınında 2 parmak arası mesafeye göre bilgisayar pralaklığı değiştirlir
+Kod çalıştıktan sonra kamera açılır ve elimiz ekrana gösterildikten sonra elin eklemleri ve elin kendisi algılanır.Ardınında 2 parmak arası mesafeye göre bilgisayar parlaklığı değiştirlir
